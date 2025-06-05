@@ -1,4 +1,5 @@
 import NewApp from './Hero'
+
 function App() {
   return (
     <>

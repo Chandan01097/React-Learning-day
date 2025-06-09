@@ -1,10 +1,11 @@
 import NewApp from './Hero'
 
 function App() {
+   const name= " I am Devil "
   return (
     <>
     <NewApp/>
-      <h2>Thi is my react journy</h2>
+      <h2>My name is Chandan And {name}</h2>
     </>
   )
 }

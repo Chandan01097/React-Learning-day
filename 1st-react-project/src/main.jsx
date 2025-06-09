@@ -8,6 +8,7 @@ function My_data() {
     </div>
   );
 }
+
 const Google = () => {
   return (
     <a href="https://www.google.com/" target="_blank">
@@ -19,5 +20,5 @@ const Google = () => {
 
 createRoot(document.getElementById("root")).render(
   
-  <Google />
+  <App />
 );
